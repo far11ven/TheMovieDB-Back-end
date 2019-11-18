@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_DB": "PARLO_IN",
+    "MONGO_USER": "FAR11VEN",
+    "MONGO_USER_PASSWORD": "2YmFa6tdPWelOtB9",
+    "MONGO_URI": "mongodb+srv://FAR11VEN:2YmFa6tdPWelOtB9@cluster0-n1cyt.gcp.mongodb.net/PARLO_IN?retryWrites=true",
+    "JWT_PRIVATE_KEY": "2YmFa6tdPWelOtB921123ASQ1"
+  }
+}
