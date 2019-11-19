@@ -1,9 +1,10 @@
 const { google } = require("googleapis");
 
+//AIzaSyCZgW7uYw777CgDgPp20zOU3PczztsaaOs
 function get_youtube(query) {
   var youtube = google.youtube({
     version: "v3",
-    auth: "AIzaSyCZgW7uYw777CgDgPp20zOU3PczztsaaOs"
+    auth: "AIzaSyDCJ3dwtpdf3DukD1SNr7SehL9I0TnOULw"
   });
   return new Promise(function(resolve, reject) {
     //returning promise
